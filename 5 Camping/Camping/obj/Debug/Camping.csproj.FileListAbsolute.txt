@@ -1,0 +1,30 @@
+C:\Users\diem\source\repos\Test\Camping\Camping\Camping\bin\Debug\Camping.exe.config
+C:\Users\diem\source\repos\Test\Camping\Camping\Camping\bin\Debug\Camping.exe
+C:\Users\diem\source\repos\Test\Camping\Camping\Camping\bin\Debug\Camping.pdb
+C:\Users\diem\source\repos\Test\Camping\Camping\Camping\obj\Debug\Camping.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\Camping\Camping\Camping\obj\Debug\Camping.Form1.resources
+C:\Users\diem\source\repos\Test\Camping\Camping\Camping\obj\Debug\Camping.Properties.Resources.resources
+C:\Users\diem\source\repos\Test\Camping\Camping\Camping\obj\Debug\Camping.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Test\Camping\Camping\Camping\obj\Debug\Camping.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\Camping\Camping\Camping\obj\Debug\Camping.exe
+C:\Users\diem\source\repos\Test\Camping\Camping\Camping\obj\Debug\Camping.pdb
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\Camping\bin\Debug\Camping.exe.config
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\Camping\bin\Debug\Camping.exe
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\Camping\bin\Debug\Camping.pdb
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\Camping\obj\Debug\Camping.csprojAssemblyReference.cache
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\Camping\obj\Debug\Camping.Form1.resources
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\Camping\obj\Debug\Camping.Properties.Resources.resources
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\Camping\obj\Debug\Camping.csproj.GenerateResource.cache
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\Camping\obj\Debug\Camping.csproj.CoreCompileInputs.cache
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\Camping\obj\Debug\Camping.exe
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\Camping\obj\Debug\Camping.pdb
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\bin\Debug\Camping.exe.config
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\bin\Debug\Camping.exe
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\bin\Debug\Camping.pdb
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\obj\Debug\Camping.csprojAssemblyReference.cache
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\obj\Debug\Camping.Form1.resources
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\obj\Debug\Camping.Properties.Resources.resources
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\obj\Debug\Camping.csproj.GenerateResource.cache
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\obj\Debug\Camping.csproj.CoreCompileInputs.cache
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\obj\Debug\Camping.exe
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\5 Camping\Camping\obj\Debug\Camping.pdb

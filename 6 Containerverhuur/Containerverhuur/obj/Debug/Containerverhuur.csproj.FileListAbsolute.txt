@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Test\Containerverhuur\Containerverhuur\Containerverhuur\bin\Debug\Containerverhuur.exe.config
+C:\Users\diem\source\repos\Test\Containerverhuur\Containerverhuur\Containerverhuur\bin\Debug\Containerverhuur.exe
+C:\Users\diem\source\repos\Test\Containerverhuur\Containerverhuur\Containerverhuur\bin\Debug\Containerverhuur.pdb
+C:\Users\diem\source\repos\Test\Containerverhuur\Containerverhuur\Containerverhuur\obj\Debug\Containerverhuur.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\Containerverhuur\Containerverhuur\Containerverhuur\obj\Debug\Containerverhuur.Form1.resources
+C:\Users\diem\source\repos\Test\Containerverhuur\Containerverhuur\Containerverhuur\obj\Debug\Containerverhuur.Properties.Resources.resources
+C:\Users\diem\source\repos\Test\Containerverhuur\Containerverhuur\Containerverhuur\obj\Debug\Containerverhuur.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Test\Containerverhuur\Containerverhuur\Containerverhuur\obj\Debug\Containerverhuur.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\Containerverhuur\Containerverhuur\Containerverhuur\obj\Debug\Containerverhuur.exe
+C:\Users\diem\source\repos\Test\Containerverhuur\Containerverhuur\Containerverhuur\obj\Debug\Containerverhuur.pdb

@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Test\Ouderbijdrage school\Ouderbijdrage school 2\Ouderbijdrage school 2\bin\Debug\Ouderbijdrage school 2.exe.config
+C:\Users\diem\source\repos\Test\Ouderbijdrage school\Ouderbijdrage school 2\Ouderbijdrage school 2\bin\Debug\Ouderbijdrage school 2.exe
+C:\Users\diem\source\repos\Test\Ouderbijdrage school\Ouderbijdrage school 2\Ouderbijdrage school 2\bin\Debug\Ouderbijdrage school 2.pdb
+C:\Users\diem\source\repos\Test\Ouderbijdrage school\Ouderbijdrage school 2\Ouderbijdrage school 2\obj\Debug\Ouderbijdrage school 2.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\Ouderbijdrage school\Ouderbijdrage school 2\Ouderbijdrage school 2\obj\Debug\Ouderbijdrage_school_2.Form1.resources
+C:\Users\diem\source\repos\Test\Ouderbijdrage school\Ouderbijdrage school 2\Ouderbijdrage school 2\obj\Debug\Ouderbijdrage_school_2.Properties.Resources.resources
+C:\Users\diem\source\repos\Test\Ouderbijdrage school\Ouderbijdrage school 2\Ouderbijdrage school 2\obj\Debug\Ouderbijdrage school 2.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Test\Ouderbijdrage school\Ouderbijdrage school 2\Ouderbijdrage school 2\obj\Debug\Ouderbijdrage school 2.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\Ouderbijdrage school\Ouderbijdrage school 2\Ouderbijdrage school 2\obj\Debug\Ouderbijdrage school 2.exe
+C:\Users\diem\source\repos\Test\Ouderbijdrage school\Ouderbijdrage school 2\Ouderbijdrage school 2\obj\Debug\Ouderbijdrage school 2.pdb

@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Test\Letterfrequenties\Letterfrequenties\Letterfrequenties\bin\Debug\Letterfrequenties.exe.config
+C:\Users\diem\source\repos\Test\Letterfrequenties\Letterfrequenties\Letterfrequenties\bin\Debug\Letterfrequenties.exe
+C:\Users\diem\source\repos\Test\Letterfrequenties\Letterfrequenties\Letterfrequenties\bin\Debug\Letterfrequenties.pdb
+C:\Users\diem\source\repos\Test\Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties.Form1.resources
+C:\Users\diem\source\repos\Test\Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties.Properties.Resources.resources
+C:\Users\diem\source\repos\Test\Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Test\Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties.exe
+C:\Users\diem\source\repos\Test\Letterfrequenties\Letterfrequenties\Letterfrequenties\obj\Debug\Letterfrequenties.pdb

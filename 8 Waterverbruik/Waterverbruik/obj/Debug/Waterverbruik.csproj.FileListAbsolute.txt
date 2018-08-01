@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Test\Waterverbruik\Waterverbruik\Waterverbruik\bin\Debug\Waterverbruik.exe.config
+C:\Users\diem\source\repos\Test\Waterverbruik\Waterverbruik\Waterverbruik\bin\Debug\Waterverbruik.exe
+C:\Users\diem\source\repos\Test\Waterverbruik\Waterverbruik\Waterverbruik\bin\Debug\Waterverbruik.pdb
+C:\Users\diem\source\repos\Test\Waterverbruik\Waterverbruik\Waterverbruik\obj\Debug\Waterverbruik.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\Waterverbruik\Waterverbruik\Waterverbruik\obj\Debug\Waterverbruik.Form1.resources
+C:\Users\diem\source\repos\Test\Waterverbruik\Waterverbruik\Waterverbruik\obj\Debug\Waterverbruik.Properties.Resources.resources
+C:\Users\diem\source\repos\Test\Waterverbruik\Waterverbruik\Waterverbruik\obj\Debug\Waterverbruik.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Test\Waterverbruik\Waterverbruik\Waterverbruik\obj\Debug\Waterverbruik.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\Waterverbruik\Waterverbruik\Waterverbruik\obj\Debug\Waterverbruik.exe
+C:\Users\diem\source\repos\Test\Waterverbruik\Waterverbruik\Waterverbruik\obj\Debug\Waterverbruik.pdb

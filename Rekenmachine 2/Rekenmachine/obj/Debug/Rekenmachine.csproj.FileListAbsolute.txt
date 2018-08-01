@@ -1,0 +1,20 @@
+C:\Users\diem\source\repos\ITvitae\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.exe.config
+C:\Users\diem\source\repos\ITvitae\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.exe
+C:\Users\diem\source\repos\ITvitae\Rekenmachine\Rekenmachine\bin\Debug\Rekenmachine.pdb
+C:\Users\diem\source\repos\ITvitae\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\ITvitae\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.Form1.resources
+C:\Users\diem\source\repos\ITvitae\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.Properties.Resources.resources
+C:\Users\diem\source\repos\ITvitae\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\ITvitae\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\ITvitae\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.exe
+C:\Users\diem\source\repos\ITvitae\Rekenmachine\Rekenmachine\obj\Debug\Rekenmachine.pdb
+C:\Users\diem\OneDrive\Documents\ITvitae\Rode opdrachten\Rekenmachine 2\Rekenmachine\bin\Debug\Rekenmachine.exe.config
+C:\Users\diem\OneDrive\Documents\ITvitae\Rode opdrachten\Rekenmachine 2\Rekenmachine\bin\Debug\Rekenmachine.exe
+C:\Users\diem\OneDrive\Documents\ITvitae\Rode opdrachten\Rekenmachine 2\Rekenmachine\bin\Debug\Rekenmachine.pdb
+C:\Users\diem\OneDrive\Documents\ITvitae\Rode opdrachten\Rekenmachine 2\Rekenmachine\obj\Debug\Rekenmachine.csprojAssemblyReference.cache
+C:\Users\diem\OneDrive\Documents\ITvitae\Rode opdrachten\Rekenmachine 2\Rekenmachine\obj\Debug\Rekenmachine.Form1.resources
+C:\Users\diem\OneDrive\Documents\ITvitae\Rode opdrachten\Rekenmachine 2\Rekenmachine\obj\Debug\Rekenmachine.Properties.Resources.resources
+C:\Users\diem\OneDrive\Documents\ITvitae\Rode opdrachten\Rekenmachine 2\Rekenmachine\obj\Debug\Rekenmachine.csproj.GenerateResource.cache
+C:\Users\diem\OneDrive\Documents\ITvitae\Rode opdrachten\Rekenmachine 2\Rekenmachine\obj\Debug\Rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\diem\OneDrive\Documents\ITvitae\Rode opdrachten\Rekenmachine 2\Rekenmachine\obj\Debug\Rekenmachine.exe
+C:\Users\diem\OneDrive\Documents\ITvitae\Rode opdrachten\Rekenmachine 2\Rekenmachine\obj\Debug\Rekenmachine.pdb

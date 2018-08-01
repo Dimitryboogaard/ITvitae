@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Test\Glashandel\Glashandel\Glashandel\bin\Debug\Glashandel.exe.config
+C:\Users\diem\source\repos\Test\Glashandel\Glashandel\Glashandel\bin\Debug\Glashandel.exe
+C:\Users\diem\source\repos\Test\Glashandel\Glashandel\Glashandel\bin\Debug\Glashandel.pdb
+C:\Users\diem\source\repos\Test\Glashandel\Glashandel\Glashandel\obj\Debug\Glashandel.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\Glashandel\Glashandel\Glashandel\obj\Debug\Glashandel.Form1.resources
+C:\Users\diem\source\repos\Test\Glashandel\Glashandel\Glashandel\obj\Debug\Glashandel.Properties.Resources.resources
+C:\Users\diem\source\repos\Test\Glashandel\Glashandel\Glashandel\obj\Debug\Glashandel.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Test\Glashandel\Glashandel\Glashandel\obj\Debug\Glashandel.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\Glashandel\Glashandel\Glashandel\obj\Debug\Glashandel.exe
+C:\Users\diem\source\repos\Test\Glashandel\Glashandel\Glashandel\obj\Debug\Glashandel.pdb

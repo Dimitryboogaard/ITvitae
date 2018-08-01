@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Test\Houthandel\Houthandel\Houthandel\bin\Debug\Houthandel.exe.config
+C:\Users\diem\source\repos\Test\Houthandel\Houthandel\Houthandel\bin\Debug\Houthandel.exe
+C:\Users\diem\source\repos\Test\Houthandel\Houthandel\Houthandel\bin\Debug\Houthandel.pdb
+C:\Users\diem\source\repos\Test\Houthandel\Houthandel\Houthandel\obj\Debug\Houthandel.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\Houthandel\Houthandel\Houthandel\obj\Debug\Houthandel.Form1.resources
+C:\Users\diem\source\repos\Test\Houthandel\Houthandel\Houthandel\obj\Debug\Houthandel.Properties.Resources.resources
+C:\Users\diem\source\repos\Test\Houthandel\Houthandel\Houthandel\obj\Debug\Houthandel.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Test\Houthandel\Houthandel\Houthandel\obj\Debug\Houthandel.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\Houthandel\Houthandel\Houthandel\obj\Debug\Houthandel.exe
+C:\Users\diem\source\repos\Test\Houthandel\Houthandel\Houthandel\obj\Debug\Houthandel.pdb

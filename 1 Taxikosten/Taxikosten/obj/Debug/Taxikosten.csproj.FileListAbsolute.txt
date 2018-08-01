@@ -1,0 +1,14 @@
+C:\Users\diem\source\repos\Test\Taxikosten\Taxikosten\Taxikosten\bin\Debug\Taxikosten.exe.config
+C:\Users\diem\source\repos\Test\Taxikosten\Taxikosten\Taxikosten\bin\Debug\Taxikosten.exe
+C:\Users\diem\source\repos\Test\Taxikosten\Taxikosten\Taxikosten\bin\Debug\Taxikosten.pdb
+C:\Users\diem\source\repos\Test\Taxikosten\Taxikosten\Taxikosten\obj\Debug\Taxikosten.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\Taxikosten\Taxikosten\Taxikosten\obj\Debug\Taxikosten.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\Taxikosten\Taxikosten\Taxikosten\obj\Debug\Taxikosten.exe
+C:\Users\diem\source\repos\Test\Taxikosten\Taxikosten\Taxikosten\obj\Debug\Taxikosten.pdb
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\1 Taxikosten\Taxikosten\bin\Debug\Taxikosten.exe.config
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\1 Taxikosten\Taxikosten\bin\Debug\Taxikosten.exe
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\1 Taxikosten\Taxikosten\bin\Debug\Taxikosten.pdb
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\1 Taxikosten\Taxikosten\obj\Debug\Taxikosten.csprojAssemblyReference.cache
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\1 Taxikosten\Taxikosten\obj\Debug\Taxikosten.csproj.CoreCompileInputs.cache
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\1 Taxikosten\Taxikosten\obj\Debug\Taxikosten.exe
+C:\Users\diem\OneDrive\Documents\ITvitae\Groene opdrachten\1 Taxikosten\Taxikosten\obj\Debug\Taxikosten.pdb

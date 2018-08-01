@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Test\Transportbedrijf\Transportbedrijf\Transportbedrijf\bin\Debug\Transportbedrijf.exe.config
+C:\Users\diem\source\repos\Test\Transportbedrijf\Transportbedrijf\Transportbedrijf\bin\Debug\Transportbedrijf.exe
+C:\Users\diem\source\repos\Test\Transportbedrijf\Transportbedrijf\Transportbedrijf\bin\Debug\Transportbedrijf.pdb
+C:\Users\diem\source\repos\Test\Transportbedrijf\Transportbedrijf\Transportbedrijf\obj\Debug\Transportbedrijf.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\Transportbedrijf\Transportbedrijf\Transportbedrijf\obj\Debug\Transportbedrijf.Form1.resources
+C:\Users\diem\source\repos\Test\Transportbedrijf\Transportbedrijf\Transportbedrijf\obj\Debug\Transportbedrijf.Properties.Resources.resources
+C:\Users\diem\source\repos\Test\Transportbedrijf\Transportbedrijf\Transportbedrijf\obj\Debug\Transportbedrijf.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Test\Transportbedrijf\Transportbedrijf\Transportbedrijf\obj\Debug\Transportbedrijf.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\Transportbedrijf\Transportbedrijf\Transportbedrijf\obj\Debug\Transportbedrijf.exe
+C:\Users\diem\source\repos\Test\Transportbedrijf\Transportbedrijf\Transportbedrijf\obj\Debug\Transportbedrijf.pdb

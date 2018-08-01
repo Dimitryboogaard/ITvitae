@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Test\5 Kinderbijslag\Kinderbijslag\Kinderbijslag\bin\Debug\Kinderbijslag.exe.config
+C:\Users\diem\source\repos\Test\5 Kinderbijslag\Kinderbijslag\Kinderbijslag\bin\Debug\Kinderbijslag.exe
+C:\Users\diem\source\repos\Test\5 Kinderbijslag\Kinderbijslag\Kinderbijslag\bin\Debug\Kinderbijslag.pdb
+C:\Users\diem\source\repos\Test\5 Kinderbijslag\Kinderbijslag\Kinderbijslag\obj\Debug\Kinderbijslag.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\5 Kinderbijslag\Kinderbijslag\Kinderbijslag\obj\Debug\Kinderbijslag.Form1.resources
+C:\Users\diem\source\repos\Test\5 Kinderbijslag\Kinderbijslag\Kinderbijslag\obj\Debug\Kinderbijslag.Properties.Resources.resources
+C:\Users\diem\source\repos\Test\5 Kinderbijslag\Kinderbijslag\Kinderbijslag\obj\Debug\Kinderbijslag.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Test\5 Kinderbijslag\Kinderbijslag\Kinderbijslag\obj\Debug\Kinderbijslag.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\5 Kinderbijslag\Kinderbijslag\Kinderbijslag\obj\Debug\Kinderbijslag.exe
+C:\Users\diem\source\repos\Test\5 Kinderbijslag\Kinderbijslag\Kinderbijslag\obj\Debug\Kinderbijslag.pdb

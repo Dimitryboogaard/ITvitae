@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Test\Vlaggen van de wereld\Vlaggen van de wereld\Vlaggen van de wereld\obj\Debug\Vlaggen van de wereld.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\Vlaggen van de wereld\Vlaggen van de wereld\Vlaggen van de wereld\obj\Debug\Vlaggen_van_de_wereld.Form1.resources
+C:\Users\diem\source\repos\Test\Vlaggen van de wereld\Vlaggen van de wereld\Vlaggen van de wereld\obj\Debug\Vlaggen_van_de_wereld.Properties.Resources.resources
+C:\Users\diem\source\repos\Test\Vlaggen van de wereld\Vlaggen van de wereld\Vlaggen van de wereld\obj\Debug\Vlaggen van de wereld.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Test\Vlaggen van de wereld\Vlaggen van de wereld\Vlaggen van de wereld\obj\Debug\Vlaggen van de wereld.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\Vlaggen van de wereld\Vlaggen van de wereld\Vlaggen van de wereld\bin\Debug\Vlaggen van de wereld.exe.config
+C:\Users\diem\source\repos\Test\Vlaggen van de wereld\Vlaggen van de wereld\Vlaggen van de wereld\bin\Debug\Vlaggen van de wereld.exe
+C:\Users\diem\source\repos\Test\Vlaggen van de wereld\Vlaggen van de wereld\Vlaggen van de wereld\bin\Debug\Vlaggen van de wereld.pdb
+C:\Users\diem\source\repos\Test\Vlaggen van de wereld\Vlaggen van de wereld\Vlaggen van de wereld\obj\Debug\Vlaggen van de wereld.exe
+C:\Users\diem\source\repos\Test\Vlaggen van de wereld\Vlaggen van de wereld\Vlaggen van de wereld\obj\Debug\Vlaggen van de wereld.pdb

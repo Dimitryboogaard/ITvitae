@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Test\Boter kaas en eieren\Boter kaas en eieren\Boter kaas en eieren\obj\Debug\Boter kaas en eieren.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\Boter kaas en eieren\Boter kaas en eieren\Boter kaas en eieren\obj\Debug\Boter_kaas_en_eieren.Form1.resources
+C:\Users\diem\source\repos\Test\Boter kaas en eieren\Boter kaas en eieren\Boter kaas en eieren\obj\Debug\Boter_kaas_en_eieren.Properties.Resources.resources
+C:\Users\diem\source\repos\Test\Boter kaas en eieren\Boter kaas en eieren\Boter kaas en eieren\obj\Debug\Boter kaas en eieren.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Test\Boter kaas en eieren\Boter kaas en eieren\Boter kaas en eieren\obj\Debug\Boter kaas en eieren.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\Boter kaas en eieren\Boter kaas en eieren\Boter kaas en eieren\bin\Debug\Boter kaas en eieren.exe.config
+C:\Users\diem\source\repos\Test\Boter kaas en eieren\Boter kaas en eieren\Boter kaas en eieren\bin\Debug\Boter kaas en eieren.exe
+C:\Users\diem\source\repos\Test\Boter kaas en eieren\Boter kaas en eieren\Boter kaas en eieren\bin\Debug\Boter kaas en eieren.pdb
+C:\Users\diem\source\repos\Test\Boter kaas en eieren\Boter kaas en eieren\Boter kaas en eieren\obj\Debug\Boter kaas en eieren.exe
+C:\Users\diem\source\repos\Test\Boter kaas en eieren\Boter kaas en eieren\Boter kaas en eieren\obj\Debug\Boter kaas en eieren.pdb

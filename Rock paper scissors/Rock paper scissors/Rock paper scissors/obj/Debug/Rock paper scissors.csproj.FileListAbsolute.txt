@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Test\Rock paper scissors\Rock paper scissors\Rock paper scissors\bin\Debug\Rock paper scissors.exe.config
+C:\Users\diem\source\repos\Test\Rock paper scissors\Rock paper scissors\Rock paper scissors\bin\Debug\Rock paper scissors.exe
+C:\Users\diem\source\repos\Test\Rock paper scissors\Rock paper scissors\Rock paper scissors\bin\Debug\Rock paper scissors.pdb
+C:\Users\diem\source\repos\Test\Rock paper scissors\Rock paper scissors\Rock paper scissors\obj\Debug\Rock paper scissors.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\Rock paper scissors\Rock paper scissors\Rock paper scissors\obj\Debug\Rock_paper_scissors.Form1.resources
+C:\Users\diem\source\repos\Test\Rock paper scissors\Rock paper scissors\Rock paper scissors\obj\Debug\Rock_paper_scissors.Properties.Resources.resources
+C:\Users\diem\source\repos\Test\Rock paper scissors\Rock paper scissors\Rock paper scissors\obj\Debug\Rock paper scissors.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Test\Rock paper scissors\Rock paper scissors\Rock paper scissors\obj\Debug\Rock paper scissors.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\Rock paper scissors\Rock paper scissors\Rock paper scissors\obj\Debug\Rock paper scissors.exe
+C:\Users\diem\source\repos\Test\Rock paper scissors\Rock paper scissors\Rock paper scissors\obj\Debug\Rock paper scissors.pdb

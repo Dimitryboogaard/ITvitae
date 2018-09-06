@@ -1,0 +1,10 @@
+C:\Users\diem\source\repos\Test\Morse code\Morse code\Morse code\bin\Debug\Morse code.exe.config
+C:\Users\diem\source\repos\Test\Morse code\Morse code\Morse code\bin\Debug\Morse code.exe
+C:\Users\diem\source\repos\Test\Morse code\Morse code\Morse code\bin\Debug\Morse code.pdb
+C:\Users\diem\source\repos\Test\Morse code\Morse code\Morse code\obj\Debug\Morse code.csprojAssemblyReference.cache
+C:\Users\diem\source\repos\Test\Morse code\Morse code\Morse code\obj\Debug\Morse_code.Form1.resources
+C:\Users\diem\source\repos\Test\Morse code\Morse code\Morse code\obj\Debug\Morse_code.Properties.Resources.resources
+C:\Users\diem\source\repos\Test\Morse code\Morse code\Morse code\obj\Debug\Morse code.csproj.GenerateResource.cache
+C:\Users\diem\source\repos\Test\Morse code\Morse code\Morse code\obj\Debug\Morse code.csproj.CoreCompileInputs.cache
+C:\Users\diem\source\repos\Test\Morse code\Morse code\Morse code\obj\Debug\Morse code.exe
+C:\Users\diem\source\repos\Test\Morse code\Morse code\Morse code\obj\Debug\Morse code.pdb
